@@ -14,6 +14,8 @@ namespace ConsoleApp1
 
             //this is a test
             Console.WriteLine("hello world");
+
+            Console.WriteLine("hello world");
         }
     }
 }
